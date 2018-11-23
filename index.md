@@ -52,8 +52,8 @@
 
 ## 关于
 ### 我们
-如何您有其他证据或信息欢迎联系我。  
-3135063184@qq.com (放心这是小号学校找不到我)  
+如何您有其他证据或信息欢迎联系我们。  
+3135063184@qq.com (放心这是小号学校找不到我们)  
 欢迎在问题区讨论。  
 https://github.com/bhlgze/bhlgze.github.io/issues (这里是github，学校没办法封禁或删除)  
 备用网站  
@@ -62,7 +62,7 @@ https://github.com/bhlgze/bhlgze.github.io/blob/master/index.md
 ### 行动
 #### 全力阻挠学校19招生，扩散有关消息  
 * 在微博搜索渤海理工，一旦有想要入学的赶紧阻拦。
-* 在我校贴吧，黄骅贴吧，河北贴吧，全河北所有高中贴吧，做好宣传。
+* 在我校贴吧，河北地方贴吧，多发帖引发讨论。
 * 在高考报名前夕建立新生群说明情况，其他新生群建立后也要立即进入并说明。
 * 知乎上，和渤海理工有关问题下解答。
 * 百度知道上，和渤海理工有关问题下解答。
@@ -71,17 +71,27 @@ https://github.com/bhlgze/bhlgze.github.io/blob/master/index.md
 * 通过个人渠道，向高考考生说明被 让他们向同学扩散。
 * 有贴吧等级比较高的申请下吧主。
 * 编辑渤海理工职业学院的百度百科。
+* 发动各级学生了解并参与。
 
 ### 相关链接
 * [微博](https://s.weibo.com/weibo/%25E6%25B8%25A4%25E6%25B5%25B7%25E7%2590%2586%25E5%25B7%25A5)
-* [百度渤海理工](https://www.baidu.com/s?wd=渤海理工)
-* [渤海理工职业学院](https://www.baidu.com/s?wd=渤海理工职业学院)
-* [360渤海理工](https://www.so.com/s?q=渤海理工职业学院)
-* [360渤海理工职业学院](https://www.so.com/s?q=渤海理工职业学院)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [百度渤海理工](https://www.baidu.com/s?wd=渤海理工)/[渤海理工职业学院](https://www.baidu.com/s?wd=渤海理工职业学院)
+* [360渤海理工](https://www.so.com/s?q=渤海理工职业学院)/[360渤海理工职业学院](https://www.so.com/s?q=渤海理工职业学院)
+* [知乎](https://www.zhihu.com/question/287462408)/[知乎](https://www.zhihu.com/question/289998302)/[知乎](https://www.zhihu.com/question/272179580)/[知乎](https://www.zhihu.com/question/291194858/answer/536378644)/[知乎](https://www.zhihu.com/question/287462408)/[知乎](https://www.zhihu.com/question/303411910)
+* [百度知道](https://zhidao.baidu.com/search?word=%B2%B3%BA%A3%C0%ED%B9%A4)[百度知道](https://zhidao.baidu.com/search?word=%B2%B3%BA%A3%C0%ED%B9%A4%D6%B0%D2%B5%D1%A7%D4%BA)
+* [360问答](http://wenda.so.com/search/?q=%E6%B8%A4%E6%B5%B7%E7%90%86%E5%B7%A5)/[360问答](http://wenda.so.com/search/?q=%E6%B8%A4%E6%B5%B7%E7%90%86%E5%B7%A5%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2)
+* 
+#### 相关贴吧 越靠上越重要
+* [渤海理工职业学院](http://tieba.baidu.com/f?ie=utf-8&kw=渤海理工职业学院)
+* [黄骅](http://tieba.baidu.com/f?ie=utf-8&kw=黄骅)
+* [黄骅港](http://tieba.baidu.com/f?ie=utf-8&kw=黄骅港)
+* [沧州](http://tieba.baidu.com/f?ie=utf-8&kw=沧州)
+* [南大港](http://tieba.baidu.com/f?ie=utf-8&kw=南大港)
+* [河北](http://tieba.baidu.com/f?ie=utf-8&kw=河北)
+* [遵化](http://tieba.baidu.com/f?ie=utf-8&kw=遵化)
+* [邯郸](http://tieba.baidu.com/f?ie=utf-8&kw=邯郸)
+* [迁安](http://tieba.baidu.com/f?ie=utf-8&kw=迁安)
+* [临漳](http://tieba.baidu.com/f?ie=utf-8&kw=临漳)
+* [廊坊](http://tieba.baidu.com/f?ie=utf-8&kw=廊坊)
+* [景县](http://tieba.baidu.com/f?ie=utf-8&kw=景县)
+* [承德](http://tieba.baidu.com/f?ie=utf-8&kw=承德)
