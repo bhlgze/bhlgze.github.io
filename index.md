@@ -1,48 +1,48 @@
 ## 渤海理工职业学院介绍
 
 渤海理工职业学院("以下简称学校")、2013年建校并于2013进行第一次招生
-[学校参考](http://www.bhlgxy.com/list/?84-93.html)  
-是一所民办大学、董事长和法人为韩杏军(实际负责人/受益人),学院现任院长曹利强(无实权/受雇于韩杏军)、党委书记侯东喜、副院长马峥涛、刘炳炎、韩艳丽
-[第三方参考](https://www.qixin.com/company/f06f1644-e61a-4fd2-ba40-365050bb703c)、
-[众诚公告参考](http://www.hbzcgroup.com/html/news/2018-9-25/760.html)  
+[参考于学校](http://www.bhlgxy.com/list/?84-93.html)  
+是一所民办大学、董事长和法人为**韩杏军**(实际负责人/受益人),学院现任院长曹利强(无实权/受雇于**韩杏军**)、党委书记侯东喜、副院长马峥涛、刘炳炎、韩艳丽
+[参考于第三方](https://www.qixin.com/company/f06f1644-e61a-4fd2-ba40-365050bb703c)、
+[参考于众诚公告](http://www.hbzcgroup.com/html/news/2018-9-25/760.html)  
 
-韩杏军并同时担任河北众诚企业集团("以下众诚")董事长、党委书记
-[第三方参考](https://www.tianyancha.com/search?key=%E9%9F%A9%E6%9D%8F%E5%86%9B)、
-[众诚公告参考](http://www.hbzcgroup.com/html/news/2018-9-25/760.html)
+**韩杏军**并同时担任河北众诚企业集团("以下简称众诚")董事长、党委书记
+[参考于第三方](https://www.tianyancha.com/search?key=%E9%9F%A9%E6%9D%8F%E5%86%9B)、
+[参考于众诚公告](http://www.hbzcgroup.com/html/news/2018-9-25/760.html)
 因为以上原因学校于众诚关系密不可分、学校悬挂众诚旗帜、要求老师学生学习众诚口号思想。  
 
-众诚是一个以房地产相关投资为中心的企业集团、核心为河北众诚投资集团有限公司、原法人、股东、受益人为韩杏军、现为杨光(第三方参考)
-[https://www.tianyancha.com/company/295120878]  
+众诚是一个以房地产相关投资为中心的企业集团、核心为河北众诚投资集团有限公司、原法人、股东、受益人为**韩杏军**、现为杨光
+(参考于第三方)[https://www.tianyancha.com/company/295120878]
+(关系图表)[]  
 
-### Markdown
+### 所作恶事
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+####强迫部分大二学生去工厂
+　　11月20日有三个专业被通知，大致涉及500-600名学生，要求搬迁至石家庄一印实业有限公司的厂房("以下简称工厂"，距离学校300多公里，学校方面称为石家庄实训基地。  
+	学校方面警告说如果不搬迁将退学处理。
+	石家庄一印实业有限公司现为河北众诚企业集团公司全资子公司。[参考于百度](https://xin.baidu.com/detail/compinfo?pid=BmFvSmTnbokwzmOwajPN6VChkCdBPI3sGg2t&from=ps)
+	所搬地点临近污水处理厂，味道难闻，环境恶劣，教室和宿舍都是厂房改造。  
+	[工厂图片]()
+	[工厂图片]()
+	[工厂图片]()
+	[工厂图片]()  
+	部分之前前往工厂的学生称要求进行体力劳动。
+	原因为学校宿舍不足，为迎接春季招生所以调离学生，在迎接2018招生时同时因为宿舍不足导致将部分18级安排至其他工厂。
 
-```markdown
-Syntax highlighted code block
+####学校组织考证必须报名培训班
+	2018年11月1日，学校内组织普通话，会计证书，专接本，自考大专，教师资格证，强行收取培训班费用不缴纳不给报名。  
 
-# Header 1
-## Header 2
-### Header 3
+####强迫大三学生去指定工厂实习
+	2018年11月1日大三要求去实习未说明地点，工资。除在学校报名专接本培训班的可以不去。
+	学校方面警告说如果不去将退学处理。
+	事后经过曝光允许学生挑选仅有的几个于所学专业无关的地点岗位，岗位多为快递，电话客服，工厂。
+	依旧警告说不去将退学处理。
 
-- Bulleted
-- List
+####大一学生没有宿舍
+	2018年9月1日学校迎接新生，于宿舍不足部分学生送至天津军训。
+	2018年9月15日军训结束，将部分大三学生强行送至石家庄赵县，同样以退休威胁。
 
-1. Numbered
-2. List
+####虚假宣传
+	学校常年以独卫空调宿舍做宣传，17届18届学生均有为分配到没有独卫空调的老宿舍楼，打热水都必须去其他宿舍楼。
+	学校部分宣传图标有的建筑至今仍未建起，并将旁边公园划入地图，宣传图内最大建筑图书馆至今还是一片空地，旁边一栋小型建筑部分为现在图书馆，原三层，现三层机房关闭，二层杂志关闭，最后仅为一层。
 
-**Bold** and _Italic_ and `Code` text
-
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bhlgze/bhlgze.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
