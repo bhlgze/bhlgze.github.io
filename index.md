@@ -59,9 +59,9 @@
   如何您有其他证据或信息欢迎联系我们。  
   3135063184@qq.com (放心这是小号学校找不到我们)  
   欢迎在问题区讨论。  
-  https://github.com/bhlgze/bhlgze.github.io/issues (这里是github，学校没办法封禁或删除)  
+  [https://github.com/bhlgze/bhlgze.github.io/issues](https://github.com/bhlgze/bhlgze.github.io/issues) (这里是github，学校没办法封禁或删除)  
   备用网站  
-  https://github.com/bhlgze/bhlgze.github.io/blob/master/index.md  
+  [https://github.com/bhlgze/bhlgze.github.io/blob/master/index.md](https://github.com/bhlgze/bhlgze.github.io/blob/master/index.md)  
   ![](https://raw.githubusercontent.com/bhlgze/bhlgze.github.io/master/%E5%9B%BE%E7%89%87/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 ### 行动
