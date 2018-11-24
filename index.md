@@ -56,7 +56,7 @@
 
 ## 关于
 ### 我们
-  如何您有其他证据或信息欢迎联系我们。  
+  如果您有其他证据或信息欢迎联系我们。  
   3135063184@qq.com (放心这是小号学校找不到我们)  
   欢迎在问题区讨论。  
   [https://github.com/bhlgze/bhlgze.github.io/issues](https://github.com/bhlgze/bhlgze.github.io/issues) (这里是github，学校没办法封禁或删除)  
