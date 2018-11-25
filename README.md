@@ -1,8 +1,8 @@
 ## 渤海理工作恶记录
 ## 全部记录 -> [bhlgze.github.io](https://bhlgze.github.io)
 ### 如何您有其他证据或信息欢迎联系我们。  
-### 3135063184@qq.com
-### 微博 [https://weibo.com/5307544025/](https://weibo.com/5307544025/)
+### 加QQ或发送邮件 : 3135063184@qq.com
+###    微博        :[https://weibo.com/5307544025/](https://weibo.com/5307544025/)
 ### 欢迎在问题区讨论。（需要注册Github）
 ### https://github.com/bhlgze/bhlgze.github.io/issues    
 
