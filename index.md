@@ -65,12 +65,13 @@
 
 ## 关于
 ### 我们
-  如何您有其他证据或信息欢迎联系我们。  
+  如果您有其他证据或信息欢迎联系我们。  
   3135063184@qq.com (放心这是小号学校找不到我们)  
   欢迎在问题区讨论。  
-  https://github.com/bhlgze/bhlgze.github.io/issues (这里是github，学校没办法封禁或删除)  
+  [https://github.com/bhlgze/bhlgze.github.io/issues](https://github.com/bhlgze/bhlgze.github.io/issues) (这里是github，学校没办法封禁或删除)  
   备用网站  
-  https://github.com/bhlgze/bhlgze.github.io/blob/master/index.md  
+  [https://github.com/bhlgze/bhlgze.github.io/blob/master/index.md](https://github.com/bhlgze/bhlgze.github.io/blob/master/index.md)  
+  ![](https://raw.githubusercontent.com/bhlgze/bhlgze.github.io/master/%E5%9B%BE%E7%89%87/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 ### 行动
 #### 全力阻挠学校19招生，扩散有关消息  
@@ -93,7 +94,6 @@
 * [知乎](https://www.zhihu.com/question/287462408)/[知乎](https://www.zhihu.com/question/289998302)/[知乎](https://www.zhihu.com/question/272179580)/[知乎](https://www.zhihu.com/question/291194858/answer/536378644)/[知乎](https://www.zhihu.com/question/287462408)/[知乎](https://www.zhihu.com/question/303411910)
 * [百度知道](https://zhidao.baidu.com/search?word=%B2%B3%BA%A3%C0%ED%B9%A4)[百度知道](https://zhidao.baidu.com/search?word=%B2%B3%BA%A3%C0%ED%B9%A4%D6%B0%D2%B5%D1%A7%D4%BA)
 * [360问答](http://wenda.so.com/search/?q=%E6%B8%A4%E6%B5%B7%E7%90%86%E5%B7%A5)/[360问答](http://wenda.so.com/search/?q=%E6%B8%A4%E6%B5%B7%E7%90%86%E5%B7%A5%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2)
-* 
 #### 相关贴吧 越靠上越重要
 * [渤海理工职业学院](http://tieba.baidu.com/f?ie=utf-8&kw=渤海理工职业学院)
 * [黄骅](http://tieba.baidu.com/f?ie=utf-8&kw=黄骅)
