@@ -176,4 +176,4 @@
 * [廊坊](http://tieba.baidu.com/f?ie=utf-8&kw=廊坊)
 * [景县](http://tieba.baidu.com/f?ie=utf-8&kw=景县)
 * [承德](http://tieba.baidu.com/f?ie=utf-8&kw=承德)
-<center>展示真相不是为了攻击，希望它能纠正错误</center>
+<center>### 展示真相不是为了攻击，希望它能纠正错误</center>
