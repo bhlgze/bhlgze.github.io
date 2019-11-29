@@ -156,7 +156,6 @@
 * 发动各级学生了解并参与。
 
 ### 相关链接
-* [微博](https://s.weibo.com/weibo/%25E6%25B8%25A4%25E6%25B5%25B7%25E7%2590%2586%25E5%25B7%25A5)
 * [百度渤海理工](https://www.baidu.com/s?wd=渤海理工)/[渤海理工职业学院](https://www.baidu.com/s?wd=渤海理工职业学院)
 * [360渤海理工](https://www.so.com/s?q=渤海理工职业学院)/[360渤海理工职业学院](https://www.so.com/s?q=渤海理工职业学院)
 * [知乎](https://www.zhihu.com/question/287462408)/[知乎](https://www.zhihu.com/question/289998302)/[知乎](https://www.zhihu.com/question/272179580)/[知乎](https://www.zhihu.com/question/291194858/answer/536378644)/[知乎](https://www.zhihu.com/question/287462408)/[知乎](https://www.zhihu.com/question/303411910)
